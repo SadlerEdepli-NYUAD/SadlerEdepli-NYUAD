@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SadlerEdepli-NYUAD
+- 👋 Hi, I’m @SadlerEdepli-NYUAD. We are a lab of curious and dedicated experimentalists and computational biologists.  
 - 👀 I’m interested in epigenetics, genomics, regeneration, development, cancer and diversity, equitiy and inclusion in STEM. 
 - 🌱 I’m currently learning how to use GitHub to manage all the code we use for our bioinformatics projects. 
 - 💞️ I’m looking to collaborate on visualization of multi-omic datasets. 
